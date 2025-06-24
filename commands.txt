@@ -1,0 +1,10 @@
+Command Options
+Flag	Description
+-f FILE	Input file (one password/hash per line)
+-o FILE	Output results (CSV/JSON/TXT)
+-t HASH_TYPE	Force hash type (md5/sha1/sha256)
+-b, --breach-check	Enable breach database lookup
+-c, --common-check	Check against top 10k passwords
+--min-entropy N	Set custom entropy threshold (default: 50)
+--no-color	Disable colored output
+-v, --version	Show tool version
