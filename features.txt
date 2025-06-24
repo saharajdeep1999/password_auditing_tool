@@ -1,0 +1,10 @@
+============================================================================================
+                                        Features
+============================================================================================
+Strength Analysis           : Evaluates length, complexity, and common patterns
+Breach Verification         : Checks against HaveIBeenPwned database
+Common Password Detection   : Tests against top 10,000 compromised passwords
+Hash Support                : MD5, SHA1, SHA256 (with auto-detection)
+Batch Processing            : Analyze multiple passwords from files
+Detailed Reporting          : Color-coded results with vulnerability explanations
+=============================================================================================
